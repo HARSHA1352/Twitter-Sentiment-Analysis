@@ -35,7 +35,7 @@ Once you enter the file path, the program will preprocess the data, split it int
 
 ## Files
 
-* `svm_twitter.py`: the main file for the project
-* `dataset.csv`: a sample dataset for testing the program
+* `Sentiment_Analysis.ipynb`: the main file for the project
+* `Restaurant_Reviews.tsv`: a sample dataset for testing the program
 * `README.md`: this file
 
